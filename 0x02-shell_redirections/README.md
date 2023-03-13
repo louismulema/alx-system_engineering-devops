@@ -1,2 +1,1 @@
-Scripts for the Shell redirections assignment
-$rtext
+Scripts for redirections assignment
